@@ -28,7 +28,7 @@ With the help of two tools named spacy and nltk the preprocessing has been done.
 
 ## Visualization
 
-The data were fed into Tableau BI and the visualization has been done. 
+The data were fed into Tableau BI and the visualization has been done.[Images]() 
 
 ## Conclusion
 
