@@ -12,7 +12,7 @@ The data used for this analysis was extracted from twitter using the python modu
 #### Steps
 1. Remove hyperlink, special characters, numbers, punctuation
 2. Remove Emojis
-3. Make it lower case
+3. Make it lower case [to see the python code](https://github.com/Sathiya1611/Ironhack_Final_project/blob/main/Final_project.ipynb)
 
 ## Data Preprocessing
 
@@ -28,7 +28,7 @@ With the help of two tools named spacy and nltk the preprocessing has been done.
 
 ## Visualization
 
-The data were fed into Tableau BI and the visualization has been done.[Images]() 
+The data were fed into Tableau BI and the visualization has been done [to see the visuals](https://github.com/Sathiya1611/Ironhack_Final_project/tree/main/Images) 
 
 ## Conclusion
 
