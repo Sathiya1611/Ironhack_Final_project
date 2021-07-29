@@ -1,5 +1,7 @@
 # Ironhack_Final_project
 ## Sentiment Analysis on Twitter data using NLP
+
+![alt text](http://url/to/img.png)
 The main aim of this project is to analyze the sentiment (positive or negative) on Twitter data. In particularly people revieww on Jeff Bezos(the CEO of Amazon and Blueorigin)first space flight on 20th July 2021.
 
 ## Introduction
@@ -27,7 +29,7 @@ With the help of two tools named spacy and nltk the preprocessing has been done.
 
 The data were fed into Tableau BI and the visualization has been done. 
 
-## Results
+## Conclusion
 
 Since the data has more sarcasm the computer was unable to process it good. Because, the system divided even the sarcasm comments as positive. So, potential way to use the sentimal analysis is where people comment in any two ways meaning in positive or negative.
 Always, a project is about learning and implement what I learn in one project in the next one. So, for the same data we can do sarcasm detection and do the further machine learning approach.
