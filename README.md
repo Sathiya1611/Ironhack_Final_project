@@ -30,9 +30,9 @@ Data cleaning is the process of correcting, deleting or replacing the irrelevant
 ## Data Preprocessing
 
 The data preprocessing was carried out using the two important tools in NLP. Those are Natural Language Processing Toolkit also known as nltk and Spacy. The nltk includes all the algorithms used for complete data preprcessing such as tokenizing, stopword removal, stemming, normalization and Sentiment analysis and Vectorization. Spacy also a text preprocessing toolkit. But, both works similar with few differences. Some of them are, the nltk has 179 default stopwords whereas Spacy has 326 stopwords also practically when you pass string input to nltk it gives you string output whereas Spacy works in object format. 
-1. Text tokenization
+1. Text tokenization<br/>
 Tokenization is the process of spilitting the complete into tokens. 
-2. Stopwords removal
+2. Stopwords removal<br/>
 Stopwords are the words which doesn't makes much sense to sentence e.g., pronouns, conjunctions, preposition etc., In my project, I removed the word 'not' from the default stopword because when people comment as 'not a good idea', after removing the stopword the system will only take as 'a good idea'. So, the sentiment analysis will be opposite. Inorder to avoid that confusion I did so. 
 There are other preprocessing steps as well, however in my work I used only two of them. 
 ## Sentiment Analysis
@@ -40,12 +40,15 @@ Sentiment Analysis, also known as knowing the emotional or opinion tone of the t
 #### Steps
 1. Calculate the polarity
 2. Calculate the subjectivity 
-3. Calculate the analysis
-
+3. Calculate the analysis<br/>
+The below image shows the Sentiment Analysis performed using nltk
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/60324758/127534104-02e1b270-4b1a-44fd-9ab1-c9f23c2659c1.jpg" />
+  <img src="https://github.com/Sathiya1611/Ironhack_Final_project/blob/main/Images/sentiment_nltk.png" />
 </p>
-
+The below image shows the Sentiment Analysis performed using Spacy
+<p align="center">
+  <img src="https://github.com/Sathiya1611/Ironhack_Final_project/blob/main/Images/sentiment_spacy.png" />
+</p>
 ## Visualization
 
 The data were fed into Tableau BI and the visualization has been done [to see the visuals](https://github.com/Sathiya1611/Ironhack_Final_project/tree/main/Images) 
