@@ -58,10 +58,11 @@ The visualization was performed using the BI Tableau. The data were fed into it 
   <img src="https://github.com/Sathiya1611/Ironhack_Final_project/blob/main/Images/top5.png" />
 </p>
 
+## Insights
+After the analysis, I iterated over the positive comments and found the system has detected the sarcastic tweets as positive. So, I was interested to know the reason. So I looked for the most frequent words in the positive comments.
 ## Conclusion
 
-Since the data has more sarcasm the computer was unable to process it good. Because, the system divided even the sarcasm comments as positive. So, potential way to use the sentimal analysis is where people comment in any two ways meaning in positive or negative.
-Always, a project is about learning and implement what I learn in one project in the next one. So, for the same data we can do sarcasm detection and do the further machine learning approach.
+Since the data has more sarcastic tweets the system was unable to process it good, so the system divided even the sarcasm comments as positive. So, potential way to use the sentimal analysis is where people comment in any two ways, meaning positive or negative. Always, a project is about learning and implement what I learned in the next project.  So, for the same data we can do sarcasm detection and perform further machine learning approach.
 
 
 
