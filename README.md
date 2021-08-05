@@ -1,6 +1,10 @@
 # Ironhack_Final_project
 ## Sentiment Analysis on Twitter data using NLP
 
+<p align="center">
+  <img width="460" height="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tostvnetwork.com%2Fjeff-bezos-launches-into-space-in-his-rocket-ship-new-shepard%2F&psig=AOvVaw2FXecV8TnIoHOWKCFeeHiR&ust=1628274055892000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDfpNe_mvICFQAAAAAdAAAAABAN">
+</p>
+
 ![space_bezos_image](https://user-images.githubusercontent.com/60324758/127534104-02e1b270-4b1a-44fd-9ab1-c9f23c2659c1.jpg)
 
 The main aim of this project is to analyze the sentiment (positive or negative) on Twitter data. In particularly people revieww on Jeff Bezos(the CEO of Amazon and Blueorigin)first space flight on 20th July 2021.
