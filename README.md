@@ -59,7 +59,17 @@ The visualization was performed using the BI Tableau. The data were fed into it 
 </p>
 
 ## Insights
-After the analysis, I iterated over the positive comments and found the system has detected the sarcastic tweets as positive. So, I was interested to know the reason. So I looked for the most frequent words in the positive comments.
+After the analysis, I iterated over the positive comments and found the system has detected the sarcastic tweets as positive. So, I was interested to know the reason. So I looked for the most frequent words in the positive comments and did some background research
+<p align="center">
+  <img src="https://github.com/Sathiya1611/Ironhack_Final_project/blob/main/Images/wordcloud.png" />
+</p>
+#### Most frequent words
+1. Billionaires                                   - people think capitalism?
+2. Tax                                            - the result of 2021 article which says, Bezos pays less than 1% tax? Source: Propublica
+3. Employee                                       - reflection of 2018 protest of amazon  employees?
+4. Indecent(objectionable) terms                  - could be the reason of his phone hack in 2018?
+5. Rich, money                                    - could be the common depressive comments?
+                                                       
 ## Conclusion
 
 Since the data has more sarcastic tweets the system was unable to process it good, so the system divided even the sarcasm comments as positive. So, potential way to use the sentimal analysis is where people comment in any two ways, meaning positive or negative. Always, a project is about learning and implement what I learned in the next project.  So, for the same data we can do sarcasm detection and perform further machine learning approach.
