@@ -8,9 +8,9 @@ The main aim of this project is to analyze the sentiment (positive or negative) 
 
 ## Contents
 [Introduction](#Introduction)
-[DataCleaning](#Data Cleaning)
-[DataPreprocessing](#Data Preprocessing)
-[SentimentAnalysis](#Sentiment Analysis)
+[Data Cleaning](#DataCleaning)
+[Data Preprocessing](#DataPreprocessing)
+[Sentiment Analysis](#SentimentAnalysis)
 [Visualization](#Visualization)
 [Conclusion](#Conclusion)
 ## Introduction
