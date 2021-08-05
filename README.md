@@ -1,8 +1,6 @@
 # Ironhack_Final_project
 ## Sentiment Analysis on Twitter data using NLP
 
-<div style="text-align:center"><img src="https://user-images.githubusercontent.com/60324758/127534104-02e1b270-4b1a-44fd-9ab1-c9f23c2659c1.jpg" /></div>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/60324758/127534104-02e1b270-4b1a-44fd-9ab1-c9f23c2659c1.jpg" />
 </p>
