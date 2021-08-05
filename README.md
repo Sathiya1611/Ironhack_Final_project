@@ -49,9 +49,14 @@ The below image shows the Sentiment Analysis performed using Spacy
 <p align="center">
   <img src="https://github.com/Sathiya1611/Ironhack_Final_project/blob/main/Images/sentiment_spacy.png" />
 </p>
+
 ## Visualization
 
-The data were fed into Tableau BI and the visualization has been done [to see the visuals](https://github.com/Sathiya1611/Ironhack_Final_project/tree/main/Images) 
+The visualization was performed using the BI Tableau. The data were fed into it and the visualization has been done [see here](https://github.com/Sathiya1611/Ironhack_Final_project/tree/main/Images). The below picture shows the number of percentage of votes from different locations.
+
+<p align="center">
+  <img src="https://github.com/Sathiya1611/Ironhack_Final_project/blob/main/Images/top5.png" />
+</p>
 
 ## Conclusion
 
