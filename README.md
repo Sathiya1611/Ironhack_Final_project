@@ -2,7 +2,7 @@
 ## Sentiment Analysis on Twitter data using NLP
 
 <p align="center">
-  <img width="460" height="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tostvnetwork.com%2Fjeff-bezos-launches-into-space-in-his-rocket-ship-new-shepard%2F&psig=AOvVaw2FXecV8TnIoHOWKCFeeHiR&ust=1628274055892000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDfpNe_mvICFQAAAAAdAAAAABAN">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/60324758/127534104-02e1b270-4b1a-44fd-9ab1-c9f23c2659c1.jpg/460/300">
 </p>
 
 ![space_bezos_image](https://user-images.githubusercontent.com/60324758/127534104-02e1b270-4b1a-44fd-9ab1-c9f23c2659c1.jpg)
