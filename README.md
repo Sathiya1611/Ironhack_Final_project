@@ -63,6 +63,7 @@ After the analysis, I iterated over the positive comments and found the system h
 <p align="center">
   <img src="https://github.com/Sathiya1611/Ironhack_Final_project/blob/main/Images/wordcloud.png" />
 </p>
+
 #### Most frequent words
 1. Billionaires                                   - people think capitalism?
 2. Tax                                            - the result of 2021 article which says, Bezos pays less than 1% tax? Source: Propublica
